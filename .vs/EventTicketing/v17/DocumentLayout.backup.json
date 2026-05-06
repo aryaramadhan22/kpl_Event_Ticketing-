@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\KPL\\EventTicketing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Infrastructure\\EventTicketing.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.Infrastructure\\EventTicketing.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Domain\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.Domain\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Application\\Refunds\\DTOs\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.Application\\Refunds\\DTOs\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Domain\\EventTicketing.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.Domain\\EventTicketing.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Tests\\EventTicketing.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.Tests\\EventTicketing.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.API\\EventTicketing.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventTicketing.API\\EventTicketing.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventTicketing.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Infrastructure\\EventTicketing.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EventTicketing.Infrastructure\\EventTicketing.Infrastructure.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Infrastructure\\EventTicketing.Infrastructure.csproj",
+              "RelativeToolTip": "EventTicketing.Infrastructure\\EventTicketing.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T16:42:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Domain\\README.md",
+              "RelativeDocumentMoniker": "EventTicketing.Domain\\README.md",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Domain\\README.md",
+              "RelativeToolTip": "EventTicketing.Domain\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-06T16:41:11.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Application\\Refunds\\DTOs\\.gitkeep",
+              "RelativeDocumentMoniker": "EventTicketing.Application\\Refunds\\DTOs\\.gitkeep",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Application\\Refunds\\DTOs\\.gitkeep",
+              "RelativeToolTip": "EventTicketing.Application\\Refunds\\DTOs\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-06T16:39:14.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventTicketing.Domain.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Domain\\EventTicketing.Domain.csproj",
+              "RelativeDocumentMoniker": "EventTicketing.Domain\\EventTicketing.Domain.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Domain\\EventTicketing.Domain.csproj",
+              "RelativeToolTip": "EventTicketing.Domain\\EventTicketing.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T16:32:22.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventTicketing.API\\Program.cs",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.API\\Program.cs",
+              "RelativeToolTip": "EventTicketing.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:20:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventTicketing.Tests.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Tests\\EventTicketing.Tests.csproj",
+              "RelativeDocumentMoniker": "EventTicketing.Tests\\EventTicketing.Tests.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.Tests\\EventTicketing.Tests.csproj",
+              "RelativeToolTip": "EventTicketing.Tests\\EventTicketing.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T13:35:34.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventTicketing.API.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.API\\EventTicketing.API.csproj",
+              "RelativeDocumentMoniker": "EventTicketing.API\\EventTicketing.API.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL\\EventTicketing\\EventTicketing.API\\EventTicketing.API.csproj",
+              "RelativeToolTip": "EventTicketing.API\\EventTicketing.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T13:35:35.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Aggregates\Bookings\" />
+    <Folder Include="Aggregates\Events\" />
+    <Folder Include="Aggregates\Refunds\" />
+    <Folder Include="Common\" />
+    <Folder Include="DomainEvents\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+</Project>
