@@ -7,7 +7,6 @@ Institut Teknologi Sepuluh Nopember
 ## Tech Stack
 
 - Language: C# (.NET 8)
-- Database: PostgreSQL
 - Architecture: Clean Architecture + Domain-Driven Design (DDD)
 
 ---
