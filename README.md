@@ -11,6 +11,58 @@ Institut Teknologi Sepuluh Nopember
 
 ---
 
+## Project Structure
+
+```
+EventTicketing/
+├── EventTicketing.Domain/              # Layer domain: logika bisnis murni
+│   ├── Aggregates/
+│   │   ├── Events/                     # Aggregate Event & TicketCategory
+│   │   ├── Bookings/                   # Aggregate Booking & Ticket
+│   │   └── Refunds/                    # Aggregate Refund
+│   ├── ValueObjects/                   # Money, dll
+│   ├── DomainEvents/                   # Domain events
+│   ├── Repositories/                   # Interface repository
+│   ├── Services/                       # Domain services
+│   └── Common/                         # AggregateRoot, Entity, IDomainEvent
+│
+├── EventTicketing.Application/         # Layer aplikasi: use cases
+│   ├── Events/
+│   │   ├── Commands/                   # CreateEvent, PublishEvent, CancelEvent, dll
+│   │   ├── Queries/                    # GetAvailableEvents, GetEventDetail, dll
+│   │   └── DTOs/
+│   ├── Bookings/
+│   │   ├── Commands/                   # CreateBooking, PayBooking, ExpireBooking, dll
+│   │   ├── Queries/                    # GetMyTickets, dll
+│   │   └── DTOs/
+│   ├── Refunds/
+│   │   ├── Commands/                   # RequestRefund, ApproveRefund, RejectRefund, dll
+│   │   ├── Queries/
+│   │   └── DTOs/
+│   ├── Interfaces/                     # IPaymentGateway, INotificationService, IRefundPaymentService
+│   └── Common/
+│
+├── EventTicketing.Infrastructure/      # Layer infrastruktur: implementasi eksternal
+│   ├── Persistence/
+│   │   ├── Repositories/               # Implementasi repository (PostgreSQL)
+│   │   ├── Migrations/                 # Database migrations
+│   │   └── Configurations/             # EF Core entity configurations
+│   └── ExternalServices/
+│       ├── Payment/                    # Implementasi IPaymentGateway
+│       ├── Notification/               # Implementasi INotificationService
+│       └── Refund/                     # Implementasi IRefundPaymentService
+│
+├── EventTicketing.API/                 # Layer presentasi: REST API
+│   ├── Controllers/                    # API endpoints
+│   ├── Middleware/
+│   └── Extensions/
+│
+└── EventTicketing.Tests/               # Unit tests untuk domain layer
+    └── Domain/
+        ├── Events/
+        ├── Bookings/
+        └── Refunds/
+
 ## Initial Business Rules
 
 Business rules berikut diturunkan dari user stories dan acceptance criteria.
