@@ -11,19 +11,6 @@ Institut Teknologi Sepuluh Nopember
 
 ---
 
-
-
-### Aturan Dependency (Clean Architecture)
-Dependency hanya boleh mengarah ke dalam:
-
-```
-API → Infrastructure → Application → Domain
-```
-
-Domain tidak boleh bergantung pada layer manapun.
-
----
-
 ## Initial Business Rules
 
 Business rules berikut diturunkan dari user stories dan acceptance criteria.
